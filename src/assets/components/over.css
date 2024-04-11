@@ -1,0 +1,44 @@
+.sobre{
+    background-color: rgba(75, 75, 75, 0.5);
+    background-image: url(./11dbd31bf43e742af6bfe7f6ea10f983.jpg);
+    opacity: 0.75;
+    height: 500px;
+    display: flex;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+  }
+  
+      .stt1{
+    color: rgba(138, 77, 252, 0.349);
+    text-shadow: 2px 2px rgb(2, 2, 2);
+  }
+  
+  .st1s{
+    font-size: 80px;
+    padding-left: 50px;
+  }
+  
+  .st1n{
+    font-size: 70px;
+    padding-left: 80px;
+  }
+  
+  .stc{
+    padding-top: 120px;
+    padding-left: 150px;
+    font-size: 30px;
+  }
+  
+  .stf1{
+    height: 200px;
+    padding-left: 50px;
+    padding-top: 20px;
+  }
+  
+  .stf2{
+    width: 500px;
+    height: 150px;
+    padding-top: 70px;
+    padding-left: 200px;
+  }

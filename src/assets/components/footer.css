@@ -1,0 +1,54 @@
+.footer{
+    background: linear-gradient(rgb(44, 41, 41), rgba(0, 0, 0, 0.479));
+    
+  }
+  
+  .CPF{
+    font-size: 17px;
+    background: linear-gradient(rgb(44, 41, 41), rgba(19, 18, 18, 0.479));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .EQR{
+    padding-left: 5px;
+    color: #6127ff;
+  }
+  
+  .vox{
+    list-style: none;
+    font-style: none;
+    display: flex;
+  }
+  
+  .cat{
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    color: #6127ff;
+  }
+  
+  a:link, a:hover{
+    text-decoration: none;
+  }
+  
+  .rad2{
+    height: 20px;
+  }
+  
+  .ftr1{
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 10px;
+  }
+
+  .ftr2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
